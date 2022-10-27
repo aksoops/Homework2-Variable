@@ -55,6 +55,6 @@ public class Main {
         var theNumberOfPeopleWithAnIncrease = numberOfEmployees + newEmployees;
         var newOpeningHours = totalHours / theNumberOfPeopleWithAnIncrease;
         System.out.println(" Если в компании работает " + theNumberOfPeopleWithAnIncrease +
-                " сотрудников, то всего " + newOpeningHours + " часа работы может быть поделено между сотрудниками");
+                " сотрудника, то всего " + newOpeningHours + " часа работы может быть поделено между сотрудниками");
     }
 }
